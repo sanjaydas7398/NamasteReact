@@ -5,6 +5,10 @@
 // );
 //console.log(heading);// this will return a object to you.
 
+
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 const parent = React.createElement(
   "div",
   { id: "parent" },
